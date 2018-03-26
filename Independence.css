@@ -1,9 +1,9 @@
-*{
+* {
     margin: 0px;
 }
 
 
-div{
+div {
     height: 33.33vh;
     width: 100%;
 }
@@ -13,24 +13,32 @@ div{
 
 
 
-#orange{
+#orange {
     background-color: #ff9933;
 }
 
-#green{
-    background-color:#10692f;
+#green {
+    background-color: #10692f;
 }
 
 
-#white{
+#white {
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 40px !important;
     color: #3b5998 !important;
-    font-family: Sedgwick Ave, cursive;
+    /*    font-family: 'Orbitron',
+ sans-serif;*/
+    font-family: 'Monoton', cursive;
+    /*
+    font-family: 'Julius Sans One',
+    sans-serif;
+    font-family: 'Mina',
+    sans-serif;
+*/
 }
- 
+
 
 /*
 span h1{
